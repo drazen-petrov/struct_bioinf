@@ -1,0 +1,9 @@
+NACHNAME;Vorname;Größe;Gewicht
+REED;David;185;80.0
+JONES;Stephen;190;91
+WATSON;cynthia;174;73.0
+SMITH;Stephanie;149;52
+CARTER;Randy;;73
+GREEN;;184;82
+MORGAN;Jessie;175;75
+CARTER;katherine
